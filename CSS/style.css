@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+body {
+    background-image: url(../3d\ bg.jpg);
+    background-size: cover;
+}
+
+.text1 {
+    margin: 10px 11vw;
+}
+
+.text1 .btn1 {
+    padding: 15px 27px;
+    border: none;
+    background: linear-gradient(0deg, rgba(86, 8, 242, 0.8855917366946778) 0%, rgba(169, 0, 235, 1) 100%);
+    color: white;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.text1 .p1 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background: #69587178;
+    border: 2px solid #9a26d0;
+    border-radius: 10px;
+    width: 97%;
+    height: auto;
+}
+
+.text2 {
+    margin: 10px 11vw;
+}
+
+.text2 .btn2 {
+    padding: 15px 23px;
+    background: linear-gradient(0deg, rgba(8, 28, 200, 1) 0%, rgba(25, 20, 172, 0.639093137254902) 100%);
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.text2 .p2 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background: #494f6b80;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 97%;
+    height: auto;
+}
+
+.hlw {
+    margin: 10px 11vw;
+}
+
+.btn3 {
+    margin: 10px 11vw;
+    padding: 15px 20px;
+    background: linear-gradient(0deg, rgba(8, 242, 98, 0.3309698879551821) 0%, rgba(235, 0, 0, 1) 100%);
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.hlw .p3 {
+    color: white;
+    padding: 10px;
+    background: #36753669;
+    border: 2px solid green;
+    border-radius: 10px;
+    width: 97%;
+    height: auto;
+}
+
+h3 {
+    color: white;
+    padding: 10px;
+    background: #80383869;
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 97%;
+    height: auto;
+}
+
+.Full {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.sibling * {
+    border: 2px solid;
+    background: #292828ab;
+    color: white;
+    margin: 20px;
+    padding: 5px;
+    display: block;
+    border: none;
+    border-radius: 10px;
+}
+
+.Hi {
+    width: 77%;
+    margin: 20px auto;
+    background: #292828ab;
+    color: white;
+    border-radius: 10px;
+}
+
+.FONT h2 {
+    background: #2b2b2b;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+.Hi a {
+    color: white;
+}
+
+.Hi li {
+    padding: 10px;
+    margin: 0 15px;
+}
